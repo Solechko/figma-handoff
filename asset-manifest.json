@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/juuust-handoff/static/css/main.ba45722c.chunk.css",
+    "main.js": "/juuust-handoff/static/js/main.af4e1435.chunk.js",
+    "main.js.map": "/juuust-handoff/static/js/main.af4e1435.chunk.js.map",
+    "runtime-main.js": "/juuust-handoff/static/js/runtime-main.20498f9e.js",
+    "runtime-main.js.map": "/juuust-handoff/static/js/runtime-main.20498f9e.js.map",
+    "static/css/2.057380c5.chunk.css": "/juuust-handoff/static/css/2.057380c5.chunk.css",
+    "static/js/2.875835d7.chunk.js": "/juuust-handoff/static/js/2.875835d7.chunk.js",
+    "static/js/2.875835d7.chunk.js.map": "/juuust-handoff/static/js/2.875835d7.chunk.js.map",
+    "index.html": "/juuust-handoff/index.html",
+    "precache-manifest.547181ea1bbb3a06dfafd5d09a8f175a.js": "/juuust-handoff/precache-manifest.547181ea1bbb3a06dfafd5d09a8f175a.js",
+    "service-worker.js": "/juuust-handoff/service-worker.js",
+    "static/css/2.057380c5.chunk.css.map": "/juuust-handoff/static/css/2.057380c5.chunk.css.map",
+    "static/css/main.ba45722c.chunk.css.map": "/juuust-handoff/static/css/main.ba45722c.chunk.css.map",
+    "static/media/multi-styles.gif": "/juuust-handoff/static/media/multi-styles.49debdc3.gif",
+    "static/media/qrcode.jpg": "/juuust-handoff/static/media/qrcode.a31c4705.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20498f9e.js",
+    "static/css/2.057380c5.chunk.css",
+    "static/js/2.875835d7.chunk.js",
+    "static/css/main.ba45722c.chunk.css",
+    "static/js/main.af4e1435.chunk.js"
+  ]
+}
